@@ -7,7 +7,7 @@
 
 BSc in Computer Science · Advanced English · Agribusiness data specialist · Curitiba, Brazil (UTC−3)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiogoia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-goia/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caiogoia123@gmail.com)
 ![Location](https://img.shields.io/badge/Curitiba%2C%20Brazil-555?style=flat&logo=googlemaps&logoColor=white)
 
@@ -85,7 +85,7 @@ A statistical & economic **validation framework** that stress-tests the popular 
 
 ## 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiogoia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-goia/)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiogoia123@gmail.com)
 
 <sub>📍 Curitiba, Brazil · Available for remote roles (contractor / EOR) in USD/EUR</sub>
