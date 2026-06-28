@@ -76,8 +76,8 @@ A statistical & economic **validation framework** that stress-tests the popular 
 ## 🚀 Currently focused on & where I'm headed
 
 - **Now** — sharpening the modern analytics-engineering stack for remote work: **dbt**, **BigQuery** and advanced **SQL**, while shipping more end-to-end data projects.
-- **Next** — growing into **Data Science & Applied AI**, building a rare niche at the intersection of **agribusiness data + GenAI**: pairing deep domain knowledge with modern ML to turn agro data into forecasting and decision tools.
-- **Long game** — becoming the go-to analytics/AI engineer for data-driven agribusiness, working with global remote teams.
+- **Next** — growing into **Data Science & Applied AI**, pairing real-world domain knowledge with modern ML and **GenAI** to build forecasting and decision-support tools on top of business data.
+- **Long game** — mastering analytics/AI engineering end-to-end: designing data systems and applied-ML tools that turn complex, real-world data into decisions people trust.
 
 ⭐ *More projects are landing here regularly — feel free to watch the profile.*
 
