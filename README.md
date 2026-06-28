@@ -1,16 +1,92 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**caiogoia123/caiogoia123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Caio Goia
+### Analytics Engineer · BI Analyst
 
-Here are some ideas to get you started:
+**I turn messy, real-world data into pipelines and dashboards that drive decisions.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BSc in Computer Science · Advanced English · Agribusiness data specialist · Curitiba, Brazil (UTC−3)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiogoia)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caiogoia123@gmail.com)
+![Location](https://img.shields.io/badge/Curitiba%2C%20Brazil-555?style=flat&logo=googlemaps&logoColor=white)
+
+🟢 **Open to remote opportunities — worldwide**
+
+</div>
+
+---
+
+## 👋 About me
+
+- 🏢 **BI Analyst @ INTECSO** — building Power BI dashboards and Oracle SQL/PL-SQL ETL for agribusiness clients.
+- 🌾 **Agribusiness data niche** — professional BI/analytics experience across two agribusiness companies (INTECSO and **Coamo**, the largest agricultural cooperative in Latin America), turning commodity, industrial and supply-chain data into decisions.
+- 🎓 **BSc in Computer Science (UTFPR)** — thesis on Deep Learning (LSTM / GRU / Mamba) for fault location in power transmission lines.
+- 🛠️ I care about the **whole pipeline**: raw API/DB ingestion → modeling (star schema, dbt) → a dashboard a stakeholder actually uses.
+
+---
+
+## 🧰 Tech stack
+
+**Analytics Engineering & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX%20%2F%20Power%20Query-787878?style=flat)
+![Star Schema](https://img.shields.io/badge/Dimensional%20Modeling-444?style=flat)
+
+**Languages & querying**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Data & cloud**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**ML / research**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+---
+
+## 📊 Featured projects
+
+### 🌾 [AgriExport Intelligence](https://github.com/caiogoia123/agriexport-intelligence)
+Analytics-engineering pipeline on **Brazilian agribusiness exports**. Public APIs (Comex Stat, Central Bank, FRED) → **DuckDB → dbt → dashboard**. Answers where the *risk and opportunity* sit in Brazil's commodity exports: market concentration (HHI), price competitiveness, and what really moves export value (price × FX × volume).
+`Python` · `DuckDB` · `dbt` · `GitHub Actions`
+
+### ₿ [Predictability ≠ Profitability](https://github.com/caiogoia123/alpha-validation-lab)
+A statistical & economic **validation framework** that stress-tests the popular claim *"ML can predict Bitcoin."* A disciplined, reproducible **negative result** — purged cross-validation, Deflated Sharpe Ratio, transaction-cost realism, and honest reporting. The skill on display is knowing how to *validate a claim*, not produce a number.
+`Python` · `XGBoost` · `SQLite`
+
+---
+
+## 🚀 Currently focused on & where I'm headed
+
+- **Now** — sharpening the modern analytics-engineering stack for remote work: **dbt**, **BigQuery** and advanced **SQL**, while shipping more end-to-end data projects.
+- **Next** — growing into **Data Science & Applied AI**, building a rare niche at the intersection of **agribusiness data + GenAI**: pairing deep domain knowledge with modern ML to turn agro data into forecasting and decision tools.
+- **Long game** — becoming the go-to analytics/AI engineer for data-driven agribusiness, working with global remote teams.
+
+⭐ *More projects are landing here regularly — feel free to watch the profile.*
+
+---
+
+## 🤝 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiogoia)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiogoia123@gmail.com)
+
+<sub>📍 Curitiba, Brazil · Available for remote roles (contractor / EOR) in USD/EUR</sub>
+
