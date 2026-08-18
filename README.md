@@ -63,13 +63,12 @@ BSc in Computer Science · Advanced English · Agribusiness data specialist · C
 
 ## 📊 Featured projects
 
-### 🌾 [AgriExport Intelligence](https://github.com/caiogoia123/agriexport-intelligence)
-Analytics-engineering pipeline on **Brazilian agribusiness exports**. Public APIs (Comex Stat, Central Bank, FRED) → **DuckDB → dbt → dashboard**. Answers where the *risk and opportunity* sit in Brazil's commodity exports: market concentration (HHI), price competitiveness, and what really moves export value (price × FX × volume).
-`Python` · `DuckDB` · `dbt` · `GitHub Actions`
-
-### ₿ [Predictability ≠ Profitability](https://github.com/caiogoia123/alpha-validation-lab)
-A statistical & economic **validation framework** that stress-tests the popular claim *"ML can predict Bitcoin."* A disciplined, reproducible **negative result** — purged cross-validation, Deflated Sharpe Ratio, transaction-cost realism, and honest reporting. The skill on display is knowing how to *validate a claim*, not produce a number.
-`Python` · `XGBoost` · `SQLite`
+| Project | What it does | Stack |
+|---|---|---|
+| **[Safra Risk Radar](https://github.com/caiogoia123/safra-risk-radar)** · [live app](https://safra-risk-radar.streamlit.app) | Crop-failure detector for Brazilian soybean and safrinha corn. Adds ~40% over baseline **on failure years** — and the README states plainly where a one-variable rule still beats the model. | dbt · DuckDB · BigQuery · Streamlit · GitHub Actions |
+| **[Predictability ≠ Profitability](https://github.com/caiogoia123/alpha-validation-lab)** | Statistical and economic validation of crypto ML claims. Direction isn't predictable, volatility only trivially so, and no edge survives costs. A negative result, published as one. | Python · XGBoost · walk-forward · reproducible research |
+| **[Delivery Center BI Case](https://github.com/caiogoia123/delivery-center-bi-case)** | Operations dashboard for a delivery marketplace: data model, DAX, and a full visual redesign. | Power BI · DAX · dimensional modeling |
+| **[AgriExport Intelligence](https://github.com/caiogoia123/agriexport-intelligence)** | Brazilian agri-exports: market concentration (HHI) and FOB value decomposed into price × FX × volume. | Python · DuckDB · dbt · GitHub Actions |
 
 ---
 
