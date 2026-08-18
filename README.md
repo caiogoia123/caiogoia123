@@ -78,7 +78,6 @@ BSc in Computer Science · Advanced English · Agribusiness data specialist · C
 - **Next** — growing into **Data Science & Applied AI**, pairing real-world domain knowledge with modern ML and **GenAI** to build forecasting and decision-support tools on top of business data.
 - **Long game** — mastering analytics/AI engineering end-to-end: designing data systems and applied-ML tools that turn complex, real-world data into decisions people trust.
 
-⭐ *More projects are landing here regularly — feel free to watch the profile.*
 
 ---
 
